@@ -498,10 +498,7 @@ const initialData = {
            },
            "phone":"953-227-868",
            "cell":"617-731-273",
-           "id":{
-              "name":"DNI",
-              "value":"42935328-Z"
-           },
+           
            "picture":{
               "large":"https://randomuser.me/api/portraits/women/26.jpg",
               "medium":"https://randomuser.me/api/portraits/med/women/26.jpg",
