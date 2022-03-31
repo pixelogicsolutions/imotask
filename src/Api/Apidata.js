@@ -1,6 +1,6 @@
 import { v4 as uuidv4 } from 'uuid';
 
-const Data = fetch('https://randomuser.me/api/?results=10').then(res=>res.json()).then(data=>data.results)
+// const Data = fetch('https://randomuser.me/api/?results=10').then(res=>res.json()).then(data=>data.results)
 
 
 
