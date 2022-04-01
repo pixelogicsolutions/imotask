@@ -46,7 +46,6 @@ const initialData = {
     "login":{
        "uuid":"ac5f4686-5c5d-4e17-90a0-c918575bdb1e",
        "username":"angrypeacock642",
-       "password":"pavlov",
        "salt":"Vv15hBhb",
        "md5":"f7b3dfc9dc3e72594d563a3bddbc8ffb",
        "sha1":"82a1ac87b29370e8f3cbecf17d23f6890107c29d",
@@ -101,7 +100,6 @@ const initialData = {
     "login":{
        "uuid":"f67b1b35-0227-4d9b-a664-7375859bcf39",
        "username":"goldengorilla964",
-       "password":"witch",
        "salt":"X0mMZmsy",
        "md5":"2ee846c46984d424f840d274660a104f",
        "sha1":"071c35dcff6dfeed313176010603b5502a25dd46",
@@ -142,7 +140,6 @@ const initialData = {
        "city":"اراک",
        "state":"یزد",
        "country":"Iran",
-       "postcode":15244,
        "coordinates":{
           "latitude":"59.7647",
           "longitude":"-108.5624"
@@ -156,7 +153,6 @@ const initialData = {
     "login":{
        "uuid":"46f56fb8-78a9-4bbf-80ad-0dd85d6a8774",
        "username":"purplebear700",
-       "password":"direct",
        "salt":"4X4U7hvn",
        "md5":"2e7d43f7aac2df51f204a8fdf4dd664c",
        "sha1":"8f133a7eba125569a46f97fc604e81f570ac7857",
@@ -211,7 +207,6 @@ const initialData = {
     "login":{
        "uuid":"2b42d98c-0f0e-4cec-b153-490ad2c79fba",
        "username":"bigrabbit588",
-       "password":"tundra",
        "salt":"21vK8JRu",
        "md5":"9f2f1c14fe2ea7196cdd9f1551eda4a7",
        "sha1":"f3a10fb0ec515b066c90da39f876f5e5bb60f3ff",
@@ -267,7 +262,6 @@ const initialData = {
            "login":{
               "uuid":"57909836-cfc3-4a27-9313-7174a86a32f5",
               "username":"bluewolf837",
-              "password":"hoffman",
               "salt":"AxsLr5K0",
               "md5":"2e5c5ba2b89458c0f6c14c6673311e6f",
               "sha1":"99c7a0433efb259005eaa4b29c6d3e618c371bd8",
@@ -320,7 +314,6 @@ const initialData = {
            "login":{
               "uuid":"5c4be0f1-60ff-40b5-be55-04d329b715c0",
               "username":"bluebear764",
-              "password":"night",
               "salt":"DwLHVCCD",
               "md5":"bc1bb3fc577b562b58063c68be24925e",
               "sha1":"2506f0a4d174a34d86ff42483c77d505c5ce08e2",
@@ -374,7 +367,6 @@ const initialData = {
            "login":{
               "uuid":"bcc02e5f-d1e6-4649-8e9f-72fdfea9d266",
               "username":"redzebra810",
-              "password":"design",
               "salt":"l5MDGrxq",
               "md5":"e89cd667fb91422c1b999ebac364ec59",
               "sha1":"ad0c34f55538ae008003a408063f46a2d7ff8b89",
@@ -428,7 +420,6 @@ const initialData = {
            "login":{
               "uuid":"22125130-cc3c-4a1a-b2aa-2683075d3bcd",
               "username":"lazybear415",
-              "password":"apple1",
               "salt":"wpSF9GV3",
               "md5":"d2179ecedd0989615cecd2b81070ca23",
               "sha1":"b1bf060145200818516423c5fa45a32b34607507",
@@ -482,7 +473,6 @@ const initialData = {
            "login":{
               "uuid":"98c777a3-0b46-40c9-9b9e-cd941a98550e",
               "username":"crazyelephant289",
-              "password":"prince",
               "salt":"4d2XjERh",
               "md5":"509b669721b5a8773e78bbb555412a27",
               "sha1":"1c4fef17eeb3f766d5237fed31448874fdcc46c7",
@@ -536,7 +526,6 @@ const initialData = {
            "login":{
               "uuid":"9f8a22a5-45ee-45ac-952e-9784644afca2",
               "username":"whitemeercat748",
-              "password":"batman1",
               "salt":"FyGZLNgv",
               "md5":"54dede5c33fba73712fe0f56d26551df",
               "sha1":"90f342e2a79cf46fc8ff765646d3e3184eb35e37",
